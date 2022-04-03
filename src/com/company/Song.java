@@ -13,6 +13,7 @@ public class Song {
     public String toString(){
         return title;
     }
+    public String getSongTitle(){return title;}
 
 
 }
