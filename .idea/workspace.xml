@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce5fc5c-bf7b-46e2-9433-a056bbfdd788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0ce5fc5c-bf7b-46e2-9433-a056bbfdd788" name="Changes" comment="nearly done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DoubleLinkedList.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +120,16 @@
       <workItem from="1648504145490" duration="2612000" />
       <workItem from="1648661069776" duration="16981000" />
       <workItem from="1649008449096" duration="670000" />
+      <workItem from="1649017521265" duration="11670000" />
     </task>
+    <task id="LOCAL-00001" summary="nearly done">
+      <created>1649017569099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649017569099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nearly done" />
+    <option name="LAST_COMMIT_MESSAGE" value="nearly done" />
   </component>
 </project>
